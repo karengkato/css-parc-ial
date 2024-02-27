@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{background-color:darkkhaki ;}
+a{
+font-size: 18px;
+color: chocolate;
+text-decoration: none;
+font-weight: bold;
+}
+
+h2{
+font-size: 12px;
+color: darkblue;
+text-align: center;
+text-transform:uppercase;
+letter-spacing: 3px;
+
+}
+
+p{
+font-size: 16px;
+text-indent: 30px;
+text-align: justify;
+font-family: robot;
+word-spacing: 5px;
+}
+
+.pie{
+color:brown;
+font-weight:bold;
+}
